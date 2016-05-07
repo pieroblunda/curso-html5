@@ -66,3 +66,8 @@ Este curso está enfocado para programadores y alumnos de carreras afines al ár
 * Aplicaciones multiplataforma con Ionic
 * Protocolo HTTP2 (SPDY)
 * ES6
+* SEO
+* Consideraciones de Seguridad
+* Web Fundamentals (By Google)
+* Google HTML Styleguide: https://google.github.io/styleguide/htmlcssguide.xml
+* Google JavaScript Styleguide: https://google.github.io/styleguide/javascriptguide.xml
